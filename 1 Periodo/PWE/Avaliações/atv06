@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<img src="logoIFTM.png"> </img>
+<body>
+    <h1 style="color:green"> Cursos Oferecidos</h1>
+    <h2 style="color:brown"> Conheça os cursos oferecidos pelo IFTM </h2>
+    
+    <hr style="color:gray"> </hr>
+
+    <p> O <a href="www.iftm.edu.br"> IFTM </a> campus Uberlândia Centro oferece cursos de graduação em Licenciatura e em Tecnologia. Confira abaixo alguns desses cursos:
+    </p>
+        <img src="licenciatura.png"> </img> <img src="sistemas.png"> </img>
+        <a href="scroll down"> </a> <a href="scroll down"> </a>
+
+        <h3 style="color:brown"> Licenciatura em Computação </h3> <h4 style="color:brown"> Sistemas para Informação </h4>
+        <hr style="color:gray"> </hr>
+
+    <p> No exercício profissional do licenciado em computação estão implícitas: a colaboração com profissionais de diversas áreas, a qualificação e o comprometimento com a gestão do processo de ensino-aprendizagem, a visão da complementaridade do processo educativo, da tecnologia e da ciência da computação, o estímulo à pesquisa, à criação, e ao investimento na própria formação. Tem como objetivo formar professores com uma visão tecnológica em computação, para atuarem na educação básica: ensino fundamental, ensino médio, e ainda na educação profissional técnica de nível médio, na rede de ensino pública e privada.
+         </p>
+
+        <details> 
+            <summary style="color:blue" ; > <i> Mais informações sobre o curso </summary> </i>
+            <h4> <strong> Perfil do Egresso</h4> </strong>
+            <p> Entendemos o licenciado em computação, em primeiro lugar, como um profissional ligado ao exercício do diálogo entre as unidades curriculares nos espaços da educação. Como tal, esse profissional agrega-se às equipes de coordenação pedagógica, nas quais atua de início, como um facilitador da introdução de novas tecnologias, não apenas no sentido prático (ou das práticas), mas particularmente no nível da discussão de metodologias e concepções. Nessa qualidade, a sua intervenção no plano das atividades de concepção, planejamento e gestão pedagógicas pode, ou não, ser definida como algo transitório, dependendo da maior ou menor dificuldade de amadurecimento da cultura tecnológica na comunidade em que atua.
+                 </p>
+
+            <h5><strong>Corpo Docente </strong></h5>
+            <p>Conheça os professores do curso de Licenciatura em Computação:
+            </p>
+
+            <table border="1" align="center" widt ="500" cellspacing="10" cellpading="10">  
+                <tr>
+                    <th> Docente</th>
+                    <th>Titulação</th>
+                    <th>Área de atuação</th>
+                    <th>Regime</th>
+                </tr>
+
+                <tr> 
+                    <th> Bruno Q Pinto</th> 
+                </tr>
+
+
+
+            </table>
+
+              
+                </details>    
+
+
+
+</body>
+</html>
