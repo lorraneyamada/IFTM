@@ -1,1 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
 
+<body>
+<img src="eufoto.jpg" width="150"> <center><h1 style="color:blue text-align:center font-size:14"> Lorrane Yamada </h1>
+<p> Brasileira, 29 anos, solteira
+yamadalorrane@gmail.com
+(34) 99889-9058 <br>
+R. Paraná 1423, Brasil </p> </center>
+
+<ul>
+<h2 style="color:blue"> FORMAÇÃO </h2>
+    <li>Relações Internacionais UFU(2025) <br></li>
+    <li>Técnico em Informática IFTM(2014) </li>
+
+
+<h3 style="color:blue">EXPERIÊNCIA</h3>
+
+  <li><strong>2024-Atual| Agência Ponto e Vírgula Comunicação - Social Media</strong></li>
+  <li>Gestão de redes sociais e assesoria;</li>
+  <li>Produção de campanhas e conteúdo estrtégico;</li>
+  <li>Redação, copyrighting, elaboração editorial.</li>
+<br>
+<li><strong>2023-2024| Callink - Backoffice Bradesco Financiamentos</strong></li>
+  <li>Abertura de chamados;</li>
+  <li>Atendimento à ordens de serviço;</li>
+  <li>Emissão de boletos.</li>
+<br>
+<li><strong>2021| Executive Inn Hotel - Recepcionista</strong></li>
+<br>
+<li><strong>2020| Digidoc - Auxiliar Administrativo</strong></li>
+
+<h4 style="color:blue">ESTÁGIOS</h4>
+    <li><strong>2019–2020 | Scientia Vitae</strong></li>
+      <p>Auxiliar de Gestão de Projetos</p>
+    <li><strong>2018–2019 | Comfort Hotel</strong></li>
+       <p>Recepcionista </p>
+    <li><strong>2015 | G3 Informática</strong></li>
+     <p>Técnica em Manutenção </p>
+    
+<h4 style="color:blue">HOBBIES</h4>
+  <li>Ir a shows</li>
+  <li>Assistir filmes</li>
+  <li>Ir à academia ou correr</li>
+</ul>
+
+</ul>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nspxAG12Cpc?si=n_f1D92pMKbqRWWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br>
+<a href=“https://www.youtube.com/channel/UCCYb8bp7v9maNk5n3nfw-Lg”> Entendendo as coisas </a>
+<br>
+<a href="https://www.nexojornal.com.br/"> Informação independente </a>
+
+</head>
+
+</body>
+</html>
