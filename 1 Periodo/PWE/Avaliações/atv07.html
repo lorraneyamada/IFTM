@@ -1,1 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário de Cadastro</title>
+</head>
+<body>
+    <form> 
+<label for="nome">Nome:</label><br>
+  <input type="text" id="Nome:" name="nome"> <br>
 
+ <label for="sexo">Sexo:</label>
+<form>
+  <input type="radio" name="sexo" value="Masculino"> Masculino
+  <input type="radio" name="sexo" value="Feminino"> Feminino
+</form>
+
+<label for=""estado">Estado Civil</label>
+<form action="/action_page.php method="get">
+<input list="estado civil" name="Estado Civil">
+<datalist id="estado civil">
+<option value="Solteiro">
+<option value="Casado">
+<option value="Divorciado">
+<option value="outro">
+</datalist>
+
+</form>
+
+<label for="email">Email:</label>
+<input type="email" name="email"> <br>
+
+<label for="endereco">Endereço:</label>
+<input type="text" name="endereco">
+<br>
+<label for="numero">Número:</label>
+<input type="number" name="numero" min="1" max="1000" placeholder="1-1000">
+<br>
+
+<form>
+<label for="dataNascimento">Data de Nascimento:</label><br>
+<input type="date" id="dataNascimento" name="dataNascimento"><br
+</form>   
+
+<label for="telefone">Telefone:</label>
+<input type="telefone" name="Telefone" placeholder="(99) 99999-9999">
+<br>
+
+ <label for="site">Página pessoal(meu site)</label><br>
+ <input type="url" name="site" placeholder="https://meusite.com">
+ <br>
+
+<input type="submit" value="Enviar">
+<input type="reset" value="Limpar">
+</body>
+</html>
