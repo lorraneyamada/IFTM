@@ -1,1 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Avaliações/styles.css"> 
+    <title>Document</title>
+</head>
+<body>
+    <header> <h1>Instituto Federal do Triângulo Mineiro</h1>
+        <nav>
+            <ul>
+                <li> <a href="">Institucional</a></li>
+                <li> <a href="">Campi</a></li>
+                <li> <a href="">Sobre nós</a></li>
+            </ul>
+        </nav>
+    </header>
 
+    <main> 
+        <section> <h2>Uberlândia Centro</h2>
+            <p> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Enim illo aliquid, itaque eligendi explicabo, praesentium minus tempora esse at, obcaecati voluptatem autem repellendus fuga quibusdam molestiae dolores soluta labore sint!
+            Illo voluptates obcaecati sed omnis quidem porro repellat laborum, voluptate ut quod corrupti dolorem vitae eveniet quia blanditiis dolores unde? Reiciendis commodi exercitationem dolorum voluptas temporibus laudantium eum voluptatem rem?</p>
+        <img src="iftm.jpg">
+        <p> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloribus, consequuntur iste non qui in omnis labore, excepturi repellat maxime minus ullam id dolore inventore ab facere magnam animi ipsam vel?
+        Assumenda eligendi consequuntur ratione autem voluptas quis inventore, ex ducimus ipsam, dolorem consectetur libero voluptates praesentium excepturi placeat iusto reiciendis expedita quasi pariatur similique earum ullam. Id necessitatibus dignissimos dicta!</p>
+    <ul>
+        <li>Ensino</li>
+       <li>Pesquisa</li>
+       <li>Extensão</li>
+       <li>Outras atividades</li>
+        
+    </ul>    
+    </section>
+
+    <section>
+    <h2> Ituitaba</h2>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vitae dolore, maiores accusamus dolor unde fugit illo labore aspernatur deserunt aliquam tempora veritatis error! Explicabo optio voluptates in minima odio ullam.
+    Optio, pariatur mollitia neque totam perspiciatis nobis incidunt inventore aliquid possimus, sapiente cumque magni praesentium. Dolor enim asperiores beatae excepturi sit eaque adipisci tempore? Aliquam excepturi suscipit nulla voluptatum nihil!
+    Expedita vero optio enim corporis, eos quis quisquam fuga debitis ullam eum doloremque accusamus praesentium rem maxime repellendus repudiandae tempore aliquam eligendi quod, quas eveniet necessitatibus numquam sint harum? Eum?
+    Molestiae vel cupiditate ea eos rerum. Porro obcaecati, consectetur cupiditate, necessitatibus ad eligendi optio, excepturi veritatis distinctio possimus consequuntur? Nostrum veniam numquam laudantium praesentium quis excepturi accusamus delectus nulla at!</p>
+<img src="iftm2.jpg">   
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed nulla quam ratione est minus eaque natus fugit consequatur, temporibus vitae animi soluta, sint magni nobis voluptas provident eos pariatur tenetur.
+Hic nemo repellat ratione totam iste consequuntur ut numquam, quaerat eum impedit libero corrupti in facere necessitatibus aspernatur. Incidunt explicabo ipsam eligendi magnam amet vero cumque corporis, consequatur modi ex?
+Eos debitis fuga, autem voluptas architecto perspiciatis, temporibus est facere omnis aspernatur rerum excepturi ea labore pariatur velit amet exercitationem illo libero, delectus aliquid numquam mollitia! Corporis et facilis atque!
+Delectus deleniti possimus animi fugiat aperiam quia molestias reiciendis, maxime dolor corporis nesciunt, deserunt, totam quos reprehenderit ullam. Voluptates modi corrupti illo ex cumque aut, omnis quasi debitis exercitationem eos.</p>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora earum rerum, aliquid accusamus, explicabo placeat ullam reiciendis at nam facilis sint minima sit optio atque natus. Atque ex quo nobis.
+Aliquid dolor fuga ducimus itaque alias placeat quos praesentium vel veritatis eos et delectus odit aspernatur id est quibusdam natus perferendis sapiente rerum, eius mollitia, architecto iusto saepe! Quo, ratione.
+Enim aperiam pariatur blanditiis beatae neque impedit veniam iusto dolorum modi incidunt odio amet suscipit aliquam corrupti, laboriosam doloremque dolorem provident. Qui laudantium animi natus, tenetur doloribus reprehenderit ipsum! Ipsam!
+Necessitatibus molestiae assumenda quasi impedit consectetur ducimus dignissimos, quibusdam ut magni eius quas exercitationem accusantium ab harum fugit molestias rerum distinctio aspernatur tempora mollitia, voluptatum, repellendus quisquam pariatur. Tenetur, sapiente.</p>
+</section>
+
+<section>
+<h2> Patos de Minas</h2>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. At laboriosam dolor ad, quasi inventore dolores repudiandae, repellat officiis iusto assumenda fuga commodi facere voluptate? Similique corporis tempora obcaecati id at?
+Rerum voluptatum laudantium voluptas libero, expedita sequi quod ea temporibus tenetur. Repudiandae, molestias quibusdam nemo necessitatibus praesentium voluptatem recusandae deleniti minima magnam consectetur eligendi autem architecto repellat, aut velit consequuntur.</p>
+<img src="iftm3.jpg"> <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia doloribus rem est ipsam dolore repellat animi numquam adipisci atque unde. Quae consectetur assumenda placeat saepe ea sed itaque excepturi nesciunt.
+Culpa ipsum accusantium deserunt numquam amet velit quaerat vero id est, ab consequatur assumenda! Blanditiis architecto enim quo id iure voluptatibus quidem optio, aperiam deserunt quibusdam, quia tempora asperiores officiis!
+Totam beatae sed esse voluptatem autem, neque, quod quos eaque animi pariatur repellat, in tenetur. Assumenda atque pariatur earum nobis, dolorem vitae quidem. Quia magnam obcaecati, pariatur at voluptas qui!
+Similique, itaque. Minima laborum officia aspernatur voluptate distinctio magni odio laudantium? Excepturi odit facere perferendis quidem minus. Delectus, ipsam dignissimos, sed iste quas suscipit quae facere, laborum a deleniti perspiciatis.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam tenetur quis aperiam ipsum, nihil aliquid labore, assumenda doloremque deserunt dignissimos aspernatur ad ullam voluptate sunt dolor quod deleniti accusamus laborum.
+Provident culpa, quidem iusto animi rem nihil exercitationem facere sunt, commodi excepturi impedit adipisci veniam. Repellat suscipit sapiente velit, non tempore consequatur, voluptatibus nihil accusantium ipsa dolores fuga blanditiis modi?
+Consequatur recusandae illum qui maxime vel excepturi illo, voluptas debitis consequuntur quas praesentium, distinctio officia exercitationem dicta similique dolore ut accusantium incidunt nulla tempora labore. Eius id doloremque cumque deleniti.
+Rerum pariatur quibusdam libero sunt repellendus iusto itaque, non ducimus facere eos sit, dolores placeat, fugit quasi sed. Nihil nulla nam accusantium velit ad distinctio assumenda exercitationem quae cumque doloremque!</p>
+<br>
+<a href="#">Voltar ao topo</a>
+</section>
+</main>
+
+<footer>
+    <p>Rodapé da página</p>
+</footer>
+    
+</body>
+</html>
