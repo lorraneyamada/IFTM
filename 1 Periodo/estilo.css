@@ -1,6 +1,29 @@
-h1, h2 {
-    background-color: yellow;
-    color: red;
-    font-weight: bold;    
+* {
+   marging: 0%;
+   padding: 0%;
 }
 
+     a:link, a:visited {
+     text-decoration:none;
+     color: white;
+     display: inline-block;
+     padding: 
+     }
+
+     a:hover {
+      background-color: white;
+      color: green;
+     }
+      
+     ul {
+      border: 1px solid black;
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      background-color: darkgreen;
+     } 
+
+     ul li {
+      border: 1px solid
+      list-style:none;
+     }
