@@ -1,0 +1,19 @@
+a:link { /* LINK inicial (antes do clique)*/
+    color: orange;
+
+}
+
+a:visited { /* visitado */
+    color: red; 
+
+}
+
+a:hover { /* mouse sobre ele) */
+    color: green; 
+
+}
+
+a:active { /* mouse sobre ele  */
+color: pink;
+
+}
