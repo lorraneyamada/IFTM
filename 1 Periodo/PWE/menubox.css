@@ -7,6 +7,16 @@
   font-style: normal;
 }
 
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+ body{
+    font-family: "Oswald";
+ }
+
 .menu {
   display: flex;
   justify-content: center;
