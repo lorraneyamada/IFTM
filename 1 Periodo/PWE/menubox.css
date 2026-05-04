@@ -37,7 +37,7 @@
 
 
 .facebook {
-  background-image: url("./img/faceblack.png");
+  background-image: url("./img/faceBlack.png");
 }
 
 .facebook:hover {
@@ -46,7 +46,7 @@
 
 
 .instagram {
-  background-image: url("./img/instablack.png");
+  background-image: url("./img/instaBlack.png");
 }
 
 .instagram:hover {
@@ -55,7 +55,7 @@
 
 
 .maps {
-  background-image: url("./img/mapsblack.png");
+  background-image: url("./img/mapsBlack.png");
 }
 
 .maps:hover {
@@ -64,7 +64,7 @@
 
 
 .twitter {
-  background-image: url("./img/twitterblack.png");
+  background-image: url("./img/twitterBlack.png");
 }
 
 .twitter:hover {
@@ -73,7 +73,7 @@
 
 
 .youtube {
-  background-image: url("./img/youtubeblack.png");
+  background-image: url("./img/youtubeBlack.png");
 }
 
 .youtube:hover {
