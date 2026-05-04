@@ -53,7 +53,7 @@
 .instagram:hover {
   background-image: url("./img/insta.png");
   color: violet;
-  border-bottom: 4px solid purple;
+  border-bottom: 4px solid violet;
 }
 
 
@@ -63,8 +63,8 @@
 
 .maps:hover {
   background-image: url("./img/maps.png");
-  color: 'darkgreen';
-  border-bottom: 4px solid 'darkgreen';
+  color: darkgreen;
+  border-bottom: 4px solid darkgreen;
   
 }
 
