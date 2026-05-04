@@ -37,45 +37,45 @@
 
 
 .facebook {
-  background-image: url("../img/faceBlack.png");
+  background-image: url("./img/faceBlack.png");
 }
 
 .facebook:hover {
-  background-image: url("../img/face.png");
+  background-image: url("./img/face.png");
 }
 
 
 .instagram {
-  background-image: url("../img/instaBlack.png");
+  background-image: url("./img/instaBlack.png");
 }
 
 .instagram:hover {
-  background-image: url("../img/insta.png");
+  background-image: url("./img/insta.png");
 }
 
 
 .maps {
-  background-image: url("../img/mapsBlack.png");
+  background-image: url("./img/mapsBlack.png");
 }
 
 .maps:hover {
-  background-image: url("../img/maps.png");
+  background-image: url("./img/maps.png");
 }
 
 
 .twitter {
-  background-image: url("../img/twitterBlack.png");
+  background-image: url("./img/twitterBlack.png");
 }
 
 .twitter:hover {
-  background-image: url("../img/twitter.png");
+  background-image: url("./img/twitter.png");
 }
 
 
 .youtube {
-  background-image: url("../img/youtubeBlack.png");
+  background-image: url("./img/youtubeBlack.png");
 }
 
 .youtube:hover {
-  background-image: url("../img/youtube.png");
+  background-image: url("./img/youtube.png");
 }
