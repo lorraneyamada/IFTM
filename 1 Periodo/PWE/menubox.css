@@ -36,7 +36,7 @@
 }
 
 
-.facebook:active {
+.facebook {
   background-image: url("./img/faceBlack.png");
 }
 
@@ -45,7 +45,7 @@
 }
 
 
-.instagram:active {
+.instagram {
   background-image: url("./img/instaBlack.png");
 }
 
@@ -54,7 +54,7 @@
 }
 
 
-.maps:active {
+.maps {
   background-image: url("./img/mapsBlack.png");
 }
 
@@ -63,7 +63,7 @@
 }
 
 
-.twitter:active {
+.twitter {
   background-image: url("./img/twitterBlack.png");
 }
 
@@ -72,7 +72,7 @@
 }
 
 
-.youtube:active {
+.youtube {
   background-image: url("./img/youtubeBlack.png");
 }
 
