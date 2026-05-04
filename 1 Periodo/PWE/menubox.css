@@ -41,7 +41,7 @@
 
 .facebook:hover {
   background-image: url("./img/face.png");
-  font-color: blue;
+  color: blue;
   border-bottom: 4px solid blue;
   
 }
@@ -53,7 +53,7 @@
 
 .instagram:hover {
   background-image: url("./img/insta.png");
-  font-color: violet;
+  color: violet;
   border-bottom: 4px solid violet;
 }
 
@@ -64,8 +64,8 @@
 
 .maps:hover {
   background-image: url("./img/maps.png");
-  font-color: dark-green;
-  border-bottom: 4px solid dark-green;
+  color: "dark-green";
+  border-bottom: 4px solid "darkgreen";
   
 }
 
@@ -76,7 +76,7 @@
 
 .twitter:hover {
   background-image: url("./img/twitter.png");
-  font-color: yellow;
+  color: yellow;
   border-bottom: 4px solid yellow;
 }
 
@@ -88,7 +88,7 @@
 .youtube:hover {
   background-image: url("./img/youtube.png");
   border-bottom: 4px solid red;
-  font-color: red;
+  color: red;
 }
 
  ul {
@@ -102,3 +102,4 @@
 
  ul li {
 list-style: none; 
+ }
