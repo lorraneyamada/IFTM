@@ -90,3 +90,15 @@
   border-bottom: 4px solid red;
   font-color: red;
 }
+
+ ul {
+    border: 1px solid black;
+    display: flex; /*o ul é container */
+    flex-direction: row;
+    justify-content: center;
+    padding: 0px;
+
+ }
+
+ ul li {
+list-style: none; 
