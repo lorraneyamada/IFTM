@@ -22,6 +22,7 @@
   justify-content: center;
   background-color: black;
   padding: 10px 0;
+  text-decoration: underline;
 }
 
 .box {
@@ -30,7 +31,6 @@
   text-align: center;
   padding-top: 55px;
   color: white;
-  text-decoration: underline;
   background-repeat: no-repeat;
   background-position: center 10px;
 }
