@@ -42,7 +42,7 @@
 .facebook:hover {
   background-image: url("./img/face.png");
   text-decoration: underline color 59, 89, 152;
-  font-color: rgb (59, 89, 152);
+  border-bottom: 4px solid blue;
   
 }
 
@@ -54,7 +54,7 @@
 .instagram:hover {
   background-image: url("./img/insta.png");
   text-decoration: underline color '193, 53, 132';
-  font-color: rgb 193, 53, 132;
+  border-bottom: 4px solid violet;
 }
 
 
@@ -65,7 +65,7 @@
 .maps:hover {
   background-image: url("./img/maps.png");
   text-decoration: underline color 'darkgreen';
-  font-color: 'darkgreen';
+  border-bottom: 4px solid 'darkgreen';
   
 }
 
@@ -77,7 +77,7 @@
 .twitter:hover {
   background-image: url("./img/twitter.png");
   text-decoration: underline color yellow;
-  font-color: yellow;
+  border-bottom: 4px solid yellow;
 }
 
 
@@ -87,6 +87,6 @@
 
 .youtube:hover {
   background-image: url("./img/youtube.png");
-  text-decoration: underline red;
+ border-bottom: 4px solid red;
   font-color: red;
 }
