@@ -40,8 +40,8 @@
 
 .facebook:hover {
   background-image: url("./img/face.png");
-  color: blue;
-  border-bottom: 4px solid blue;
+  color: lightblue;
+  border-bottom: 4px solid lightblue;
   
 }
 
