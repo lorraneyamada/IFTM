@@ -63,8 +63,8 @@
 
 .maps:hover {
   background-image: url("./img/maps.png");
-  color: darkgreen;
-  border-bottom: 4px solid darkgreen;
+  color: 'darkgreen';
+  border-bottom: 4px solid 'darkgreen';
   
 }
 
