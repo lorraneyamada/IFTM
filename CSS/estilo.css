@@ -1,0 +1,41 @@
+* { 
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    margin-top: 60px;
+}
+
+/* main {
+    margin-top: 60px;
+} */
+
+.box a{
+    text-align: center;
+    height: 70px;
+    padding: 10px;
+    width: 70px;
+    position: fixed;
+    /* position: absolut; */
+
+    bottom:0px;
+    right: 0px;
+
+    /*
+    bottom: 10px;
+    right: 10px; */
+    cursor: pointer;
+    transition: all 0.5s;
+
+    background-image: url("img/zap.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+}
+
+.box:hover {
+    top:0px;
+}
