@@ -1,0 +1,16 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: 0%;
+}
+
+
+.container{
+    border: solid 2px black;
+    display: flex /*tranforma div em container*/
+    flex-direction: column;
+}
+
+.box{ 
+    border: 2px solid pink;
+}
