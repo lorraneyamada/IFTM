@@ -1,0 +1,56 @@
+* {
+box-sizing: 0px;
+margin: 0px
+padding: 0px
+
+body {
+	background-color: black;
+
+header nav ul {
+	border solid 1px black;
+	display: flex;
+	flex-diection: row;
+	justify-content: center;
+}
+
+header img{ 
+	width: 100%;
+	display: block;
+
+header nav {
+	background-color: blue
+
+main section {
+	border 1px solid pink;
+	width: 1000px;
+	margin: auto;
+	padding: 30px;
+}
+
+main section: nth-child(odd) {
+	background: white;
+
+ain section: nth-child(even) {
+	background: gray;
+
+footer {
+PADDING:40PX;
+}
+
+footer p { 
+	color: White;
+	text-align: center;
+
+header nav a:link , header nav a:visited {
+	border: 1px solid pink; // retira pink
+	list-style:none;
+	color: White;
+	padding: 5 px 15px;
+display: inline-block
+
+}
+
+header a:hover
+
+header nav a:visited {
+	text-decoration: none;
