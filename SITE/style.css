@@ -169,6 +169,10 @@ button:hover {
     text-decoration: none;
 }
 
+section button a:link, a: visited a:hover {
+    text-decoration: none;
+}
+
 table {
     width: 100%;
     border-collapse: collapse;
