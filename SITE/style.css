@@ -146,6 +146,10 @@ h3 {
     border: 3px solid #8C7A4F;
 }
 
+.container p {
+    min-width: 250px;
+}
+
 section button {
     background-color: #B5562F;
     color: #F6F1E4;
